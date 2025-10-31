@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running CheckLab5.py
+===============================================================
+    User login name: eroshy
+    Linux system name: eroshy
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/eroshy/ops445/lab5
+    Start at: Fri Oct 31 17:55:23 2025
+===============================================================
